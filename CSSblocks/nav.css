@@ -1,0 +1,32 @@
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-image {
+    position: relative;
+    margin-left: 20px;
+    width: 200px;
+    height: 155px;
+}
+.nav-list {
+    display: flex;
+    padding: 0px;
+    gap: 50px;
+    list-style-type: none;
+    font-size: 3rem;
+    line-height: 30px;
+    margin-right: 50px;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+    color: grey;
+}
+
+

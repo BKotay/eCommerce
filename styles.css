@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&display=swap');
+@import url(CSSblocks/nav.css);
+
+
+
+html {
+    background: black;
+    color: white;
+    font-family:'Anton SC', sans-serif;
+}
+
+.home-image {
+    width: 100%;
+}
+
