@@ -1,68 +1,74 @@
 [
     {
- "name": "value",
- "photo": "value",
+ "name": "BK Pack",
+ "desc": "12 Month Program which includes Strength, Speed and Better training exercises.",
  "location": true,
- "price":"$150.00"
+ "price":"$120.00"
 },
 {
-    "name": "value",
+    "name": "UpperBody Pack",
+    "photo": "value",
+    "location": true,
+    "price":"$50.00"
+   },
+   {
+    "name": "LowerBody Pack",
+    "photo": "value",
+    "location": true,
+    "price":"$50.00"
+   },
+   {
+    "name": "Sonic Pack",
+    "photo": "value",
+    "location": true,
+    "price":"$50.00"
+   },
+   {
+    "name": "Explosiveness Pack",
     "photo": "value",
     "location": true,
     "price":"$150.00"
    },
    {
-    "name": "value",
+    "name": "Bunnies Pack",
+    "photo": "value",
+    "location": true,
+    "price":"$50.00"
+   },
+   {
+    "name": "Agility Pack",
+    "photo": "value",
+    "location": true,
+    "price":"$50.00"
+   },
+   {
+    "name": "Coordination Pack",
+    "photo": "value",
+    "location": true,
+    "price":"$40.00"
+   },
+   {
+    "name": "Muscle Gain Pack",
+    "photo": "value",
+    "location": true,
+    "price":"$50.00"
+   },
+   {
+    "name": "Weight Loss Pack",
     "photo": "value",
     "location": true,
     "price":"$150.00"
    },
    {
-    "name": "value",
+    "name": "Flexibility Pack",
     "photo": "value",
     "location": true,
-    "price":"$150.00"
+    "price":"$30.00"
    },
    {
-    "name": "value",
+    "name": "Mindset Pack",
     "photo": "value",
     "location": true,
-    "price":"$150.00"
-   },
-   {
-    "name": "value",
-    "photo": "value",
-    "location": true,
-    "price":"$150.00"
-   },
-   {
-    "name": "value",
-    "photo": "value",
-    "location": true,
-    "price":"$150.00"
-   },
-   {
-    "name": "value",
-    "photo": "value",
-    "location": true,
-    "price":"$150.00"
-   },
-   {
-    "name": "value",
-    "photo": "value",
-    "location": true,
-    "price":"$150.00"
-   },
-   {
-    "name": "value",
-    "photo": "value",
-    "location": true,
-    "price":"$150.00"
-   },
-   {
-    "name": "value",
-    "photo": "value",
-    "location": true,
-    "price":"$150.00"
+    "price":"$15.00"
    }
 ]
