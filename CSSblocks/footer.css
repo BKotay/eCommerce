@@ -41,6 +41,8 @@ a{
     color: white;
 }
 
+/*Mobile Mediq Queries for footer*/
+
 @media screen and (min-width: 339px) and (max-width: 719px){
 .footer-logo{
     width: 40px;

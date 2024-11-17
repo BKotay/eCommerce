@@ -90,6 +90,8 @@ iframe {
     color: grey;
 }
 
+/*Tablet media queries for homepage*/
+
 @media screen and (min-width: 720px) and (max-width: 1180px){
     video{
         width: 400px;
@@ -123,6 +125,8 @@ iframe {
         margin: 20px auto;
     }
 }
+
+/*Mobile Media queries for homepage*/
 
 @media screen and (min-width: 339px) and (max-width: 719px){
     video {
