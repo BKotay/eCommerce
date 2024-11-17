@@ -28,3 +28,33 @@ nav {
     text-decoration: underline;
     color: grey;
 }
+@media screen and (min-width: 720px) and (max-width: 1180px){
+    .header-image{
+        width: 140px;
+        height: 100px;
+    }
+
+    .nav-list {
+        font-size: 1.5rem;
+       gap: 20px;
+    }
+}
+
+
+@media screen and (min-width: 339px) and (max-width: 719px){
+
+    .header-image{
+        width: 80px;
+        height: 80px;
+    }
+    nav {
+         display: block;
+    }
+
+    .nav-list {
+        display: block;
+        margin: 30px 20px 20px;
+        font-size: 1.3rem;
+        line-height: 50px;
+    }
+}

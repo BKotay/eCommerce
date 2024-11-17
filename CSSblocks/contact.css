@@ -1,117 +1,151 @@
 .contact-body {
-    background: url();
+  background: url();
 }
 
 .contact-form__header {
-    max-width: 850px;
-    width: 100%; 
-    margin: 0 auto;
-    margin-top: 80px;
-    margin-bottom: 70px;
-    padding: 40px; 
-    background-color: grey;
-    border-radius: 8px;
-    box-shadow: 0 5px 21px rgba(0, 0, 0, 0.15);
+  max-width: 850px;
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 80px;
+  margin-bottom: 70px;
+  padding: 40px;
+  background-color: grey;
+  border-radius: 8px;
+  box-shadow: 0 5px 21px rgba(0, 0, 0, 0.15);
 }
 
-.contact-img{
- width: 40px;
- height: 40px;
+.contact-img {
+  width: 40px;
+  height: 40px;
 }
 
-h1, h2 {
-    color: black;
-    margin-bottom: 15px;
+h1,
+h2 {
+  color: black;
+  margin-bottom: 15px;
 }
 
-.contact-us{
-    font-size: 40px;
+.contact-us {
+  font-size: 40px;
 }
 
 .text {
-    margin-bottom: 10px;
-    line-height: 1.6;
+  margin-bottom: 10px;
+  line-height: 1.6;
 }
 
 .text:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .contact-form {
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 40px;
-    margin-right: 21px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+  margin-right: 21px;
 }
 
 .contact-form label {
-    font-size: 1.5rem;
-    margin-bottom: 5px;
-    font-weight: bold;
+  font-size: 1.5rem;
+  margin-bottom: 5px;
+  font-weight: bold;
 }
 
-.contact-form input, .contact-form textarea {
-    padding: 18px; 
-    margin-bottom: 23px;
-    border: 1px solid #ccc;
-    border-radius: 5px; 
-    font-size: 19px; 
-    width: 100%; 
-    font-family: 'Anton SC', sans-serif;
+.contact-form input,
+.contact-form textarea {
+  padding: 18px;
+  margin-bottom: 23px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 19px;
+  width: 100%;
+  font-family: "Anton SC", sans-serif;
 }
 
 .contact-form textarea {
-    resize: vertical;
-    height: 120px; 
-    font-family: 'Anton SC', sans-serif;
+  resize: vertical;
+  height: 120px;
+  font-family: "Anton SC", sans-serif;
 }
 
 .contact-form button {
-    padding: 15px 25px; 
-    background-color: black;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    font-size: 18px; 
-    cursor: pointer; 
-    transition: 2s;
+  padding: 15px 25px;
+  background-color: black;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: 2s;
 }
 
-.contact-details{
-    margin-bottom: 10px;
-    cursor: pointer;
+.contact-details {
+  margin-bottom: 10px;
+  cursor: pointer;
 }
 
 .contact-details a {
-   color: white;
-    text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
 
 .contact-form button.disabled {
-    pointer-events: none;
-    background-color: #87949d;
+  pointer-events: none;
+  background-color: #87949d;
 }
 
 .submit-button {
-    font-family: 'Anton SC', sans-serif;
+  font-family: "Anton SC", sans-serif;
 }
 
 .submit-button:hover {
-    background-color: rgb(52, 84, 95);
+  background-color: rgb(52, 84, 95);
 }
 
 .contact-details__img {
-    width: 45px;
-    height: 40px;
+  width: 45px;
+  height: 40px;
 }
 
 .contact-footer {
-    font-size: 1.4rem;
+  font-size: 1.4rem;
 }
 
 h3 {
-    color: black;
-    font-size: 1.8rem;
+  color: black;
+  font-size: 1.8rem;
 }
 
+    @media screen and (min-width: 720px) and (max-width: 1180px){
+        .contact-form__header{
+            width: 540px;
+        }
+    }
 
+@media screen and (min-width: 339px) and (max-width: 719px) {
+  .contact-form__header {
+    width: 240px;
+  }
+
+  .contact-us {
+    font-size: 1.2rem;
+  }
+
+  .contact-img {
+    width: 30px;
+    height: 30px;
+  }
+
+  h3 {
+    font-size: 1.3rem;
+  }
+
+  .contact-details__img {
+    height: 30px;
+    width: 30px;
+  }
+
+  .contact-footer{
+    font-size: 1.15rem;
+  }
+}
