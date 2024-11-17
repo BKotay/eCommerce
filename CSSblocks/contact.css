@@ -7,7 +7,7 @@
     width: 100%; 
     margin: 0 auto;
     margin-top: 80px;
-    margin-bottom: 30px;
+    margin-bottom: 70px;
     padding: 40px; 
     background-color: grey;
     border-radius: 8px;
@@ -40,7 +40,7 @@ h1, h2 {
 .contact-form {
     display: flex;
     flex-direction: column;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     margin-right: 21px;
 }
 
@@ -113,3 +113,5 @@ h3 {
     color: black;
     font-size: 1.8rem;
 }
+
+

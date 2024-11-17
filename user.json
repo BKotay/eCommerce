@@ -1,74 +1,74 @@
 [
     {
  "name": "BK Pack",
- "desc": "12 Month Program which includes Strength, Speed and Better training exercises.",
- "location": true,
- "price":"$120.00"
+ "desc": "Lifetime Program which includes Strength, Speed and Better training exercises.",
+ "location": "images/bkpack.png",
+ "price":"$180.00"
 },
 {
     "name": "UpperBody Pack",
-    "photo": "value",
-    "location": true,
+    "desc": "4 to 6 Month program to increase bench, tone and upperbody strength.",
+    "location": "images/upperbody.jpeg",
     "price":"$50.00"
    },
    {
     "name": "LowerBody Pack",
-    "photo": "value",
-    "location": true,
+    "desc": "3 to 5 Month program to increase leg strength, tone and squat power.",
+    "location": "images/lowerbody.jpeg",
     "price":"$50.00"
    },
    {
     "name": "Sonic Pack",
-    "photo": "value",
-    "location": true,
+    "desc": "25 week program to increase accelerarion, top-endspeed and velocity.",
+    "location": "images/speed.jpeg",
     "price":"$50.00"
    },
    {
     "name": "Explosiveness Pack",
-    "photo": "value",
-    "location": true,
+    "desc": "3 month program to increase overall explosiveness and power.",
+    "location": "images/explosiveness.png",
     "price":"$150.00"
    },
    {
     "name": "Bunnies Pack",
-    "photo": "value",
-    "location": true,
+    "desc": "20 week program to increase vertical jump and off the ground quickness.",
+    "location": "images/bunnypack.jpeg",
     "price":"$50.00"
    },
    {
     "name": "Agility Pack",
-    "photo": "value",
-    "location": true,
+    "desc": "12 week program to increase footwork, change of direction and overall agility.",
+    "location": "images/agilitypack.jpeg",
     "price":"$50.00"
    },
    {
     "name": "Coordination Pack",
-    "photo": "value",
-    "location": true,
+    "desc": "10 week program to increase hand-eye coordination and overall catching.",
+    "location": "images/coordination.jpeg",
     "price":"$40.00"
    },
    {
     "name": "Muscle Gain Pack",
-    "photo": "value",
-    "location": true,
+    "desc": "6 Month program to increase muscle definition in all areas and a well balanced diet.",
+    "location": "images/musclegain.jpg",
     "price":"$50.00"
    },
    {
     "name": "Weight Loss Pack",
-    "photo": "value",
-    "location": true,
-    "price":"$150.00"
+    "desc": "12 month program that ensures weight loss, diet plans and supplements. ",
+    "location": "images/weightloss.jpg",
+    "price":"$100.00"
    },
    {
     "name": "Flexibility Pack",
-    "photo": "value",
-    "location": true,
+    "desc": "18 week program to increase flexibility and stretching through all areas of the body.",
+    "location": "images/flexibility.jpg",
     "price":"$30.00"
    },
    {
     "name": "Mindset Pack",
-    "photo": "value",
-    "location": true,
+    "desc": "Lifetime program which develops and strengthen mindset, inner-peace and ambition.",
+    "location": "images/mindset.jpg",
     "price":"$15.00"
    }
 ]
