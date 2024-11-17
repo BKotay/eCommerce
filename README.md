@@ -2,7 +2,7 @@
 
 Hello, my name is Blamah Kotay.
 
-This is mu eCommerce project made using HTML, CSS, Javascript and the foundations of the JSON file. My project is about a training programs and helping clients and athletes improve themselves physically and mentally!
+This is my eCommerce project made using HTML, CSS, Javascript and the foundations of the JSON file. My project is about a training programs and helping clients and athletes improve themselves physically and mentally!
 
 Project Features
  * Grid Display
